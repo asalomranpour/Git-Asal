@@ -1,0 +1,8 @@
+.form {
+    display: flex;
+    border: 2px solid black;
+    
+}
+#name {
+    background-color: rebeccapurple;
+}
